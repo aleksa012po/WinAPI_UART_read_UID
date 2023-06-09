@@ -24,6 +24,6 @@ fourth one is CHECKSUM byte) sent back by RFID reader and displays them as outpu
 
 Built With
 - C programming language
-- 
+
 Authors
 aleksa012po 
